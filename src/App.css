@@ -1,0 +1,19 @@
+*{
+  font-family: "Roboto", sans-serif;
+  font-weight:400;
+  font-style: normal;
+}
+.btn,
+.btn:hover,
+.btn:focus,
+.btn:first-child:active,
+:not(.btn-check) + .btn:active {
+  background-color: #4a148c;
+  border-color: #4a148c;
+}
+.btn:active {
+  opacity: 0.8;
+}
+.navbar-toggler{
+  filter:invert(1)
+}
