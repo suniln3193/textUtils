@@ -17,3 +17,6 @@
 .navbar-toggler{
   filter:invert(1)
 }
+.nav-link.active{
+  font-weight: 900;
+}
