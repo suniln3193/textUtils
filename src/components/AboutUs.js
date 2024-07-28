@@ -3,8 +3,18 @@ const AboutUs = () => {
     return(
     <>
         <div className="container pt-3">
-            <h1>About Us</h1>
-            <p>TextUtils is a ReactJs website built primarily to do various operations on regular typed text. You can safely use WordPad or NotePad for text drafting, and saving, but TextUtils offers much more than simple text drafting and formatting. TextUtils can convert your text to any case in just one simple click of a button. It can extract links and numbers safely from a labyrinth of random text or sophisticated documentation. It has an improved property of base64 encoding, reversal of your inputted text.You can even remove whitespaces from your scripted documents, and wear up your earphones to listen to it, instead of straining your eyes! It does a detailed analyzing of your text, and provides an output of words, and characters, along with reading time as well. The best part of TextUtils is that it is an open source project, as a result, dozens of new features are in the upcoming, which definitely makes it a cut above the rest</p>
+            <h1 className="mb-3">About Us</h1>
+            <p>Welcome to TexUtils!<br></br>
+            <br></br>
+            At TexUtils, we provide simple and efficient tools for text manipulation. Our key features include:
+            <br></br>
+            <br></br>
+            <b>Lower Case to Upper Case Converter:</b> Quickly transform your text to uppercase.<br></br><br></br>
+            <b>Upper Case to Lower Case Converter:</b> Quickly transform your text to lowercase.<br></br><br></br>
+            <b>White Space Remover:</b> Easily remove unwanted white spaces from your text.<br></br><br></br>
+            Our mission is to offer user-friendly, accessible, and reliable tools that save you time and improve productivity. Available online, TexUtils ensures you can access our services anytime, anywhere. Your privacy and security are our top priorities, with no data stored on our servers.
+            <br></br><br></br>
+            Join our community and simplify your text processing tasks with TexUtils.</p>
         </div>
     </>
     )
