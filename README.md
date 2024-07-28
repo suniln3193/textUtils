@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live Link - https://text-utils-git-master-suniln3193s-projects.vercel.app/
+Live Link - https://text-utils-git-master-sunilnagar.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
